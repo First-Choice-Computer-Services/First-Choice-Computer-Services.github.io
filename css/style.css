@@ -1,0 +1,73 @@
+/*
+Style Sheet for FCCS Online Home Page
+*/
+body {
+    background: linear-gradient(to bottom, #64CF74, #3BE03C);
+}
+
+h1.title {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  font-size: 5em;
+  text-shadow: -3px 4px #000000;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: rgb(9, 194, 0);
+}
+
+h2.title {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 3.5em;
+  text-align: center;
+  text-shadow: -2px 3px #000000;
+  letter-spacing: 0.25px;
+  color: rgb(9, 194, 0);
+  
+}
+
+.MainContent {
+  font-family: 'Cabin';
+  color: #000000;
+  
+}
+
+#WelcomeTitle {
+  font-size: 35;
+  font-weight: bold;
+  text-align: left;
+}
+
+#WelcomeMessage {
+  font-size: 25px;
+  font-weight: normal;
+  text-align: justify;
+}
+
+.MoralsTitle {
+  font-size: 28px;
+  text-align: left;
+}
+
+.MoralsList {
+  font-family: 'Cabin';
+  font-size: 23px;
+  font-weight: normal;
+  text-align: left;
+}
+
+
+.Appointments {
+  font-size: 25px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.SocialMedia {
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+}
+
+#Faceook {
+  text-align: center;
+}
